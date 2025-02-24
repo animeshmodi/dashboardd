@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlite3  # (built-in, can be omitted)
+python-dotenv
+ollama
+sqlparse
+plotly
+fpdf
